@@ -16,9 +16,22 @@
         "name": "Fern",
         "description": "Ferns prefer high humidity and indirect sunlight. Consider using a humidifier or placing a tray of water near your fern to provide adequate moisture, and avoid placing it in direct sunlight to prevent leaf burn."
       },
+      "herb": {
+        "name": "Herb",
+        "description": "Herbs are typically easy to grow and can be grown indoors or outdoors depending on the type. Consider using a well-draining soil mix and providing ample sunlight for healthy growth."
+      },
+      "tree": {
+        "name": "Tree",
+        "description": "Trees require a lot of space and attention, and may require specialized care depending on the species. Consider researching the specific needs of your tree and providing appropriate soil, water, and nutrients."
+      },
+      "flower": {
+        "name": "Flower",
+        "description": "Flowers come in a wide variety of types and require different care depending on the species. Consider researching the specific needs of your flower and providing appropriate soil, water, and nutrients."
+      },
       "other": {
         "name": "Other",
         "description": "Each plant is unique and may require specialized care to thrive. Do some research to determine the optimal growing conditions for your plant type, and monitor it regularly to ensure it's healthy and happy."
       }
     }
-}
+  }
+  
