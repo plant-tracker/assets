@@ -28,6 +28,10 @@
 			"name": "Flower",
 			"description": "Flowers come in a wide variety of types and require different care depending on the species. Consider researching the specific needs of your flower and providing appropriate soil, water, and nutrients."
 		},
+		"seed_plant": {
+			"name": "Seed Plant",
+			"description": "Seed plants are a type of plant that reproduce via seeds, which can be dispersed by wind, water, or animals. They come in a variety of shapes and sizes, and may require different growing conditions depending on the species. Consider researching the specific needs of your seed plant and providing appropriate soil, water, and nutrients for healthy growth."
+		},
 		"other": {
 			"name": "Other",
 			"description": "Each plant is unique and may require specialized care to thrive. Do some research to determine the optimal growing conditions for your plant type, and monitor it regularly to ensure it's healthy and happy."
